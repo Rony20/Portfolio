@@ -93,3 +93,23 @@ color: #358CCE;
 	border-radius: 3px;
 }
 /* for image */
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: yellow;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
